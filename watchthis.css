@@ -28,7 +28,7 @@ a:visited {
   left: 0;
   right: 0;
   bottom: 0;
-  background: top center / cover no-repeat url("./i/header-1.jpg");
+  background: top center / cover no-repeat url("./i/Background Placeholder.png");
 }
 
 header {
@@ -44,6 +44,7 @@ header {
 }
 header > * {
   margin: 0;
+  text-align: center;
 }
 header > h1 {
   font-size: 2.2rem;
@@ -104,7 +105,7 @@ img {
   width: 100%;
   height: auto;
   max-width: min-content;
-  max-height: min-content;
+  max-height: 400px;
 }
 
 .paypal {
